@@ -1,0 +1,95 @@
+#gorabox
+{
+    background-color: rgb(55, 165, 55);
+    height: 3cm;
+    margin-left: 17cm;
+    margin-right: 17cm;
+
+}
+#nag
+{
+    position: absolute;
+    font-size: 1.2cm;
+    text-align: center;
+    top: 0.9cm;
+    left: 38%;
+    color: whitesmoke;
+}
+#opcje
+{
+    left: 45%;
+    font-size: xx-large;
+    position: absolute;
+    text-align: center;
+    
+}
+#o1
+{
+    background-color: turquoise;
+    border: 2px solid aqua;
+}
+#o2
+{
+    background-color: turquoise;
+    border: 2px solid aqua;
+}
+#o3
+{
+    background-color: turquoise;
+    border: 2px solid aqua;
+}
+#o4
+{
+    background-color: turquoise;
+    border: 2px solid aqua;
+}
+#o5
+{
+    background-color: turquoise;
+    border: 2px solid aqua;
+}
+#o6
+{
+    background-color: turquoise;
+    border: 2px solid aqua;
+}
+#o1:hover
+{
+    background-color: white;
+
+}
+#o2:hover
+{
+    background-color: white;
+
+}
+#o3:hover
+{
+    background-color: white;
+
+}
+#o4:hover
+{
+    background-color: white;
+
+}
+#o5:hover
+{
+    background-color: white;
+
+}
+#o6:hover
+{
+    background-color: white;
+
+}
+
+#html
+{
+    visibility: hidden;
+    
+}
+#html a:hover
+{
+    visibility: visible;
+}
